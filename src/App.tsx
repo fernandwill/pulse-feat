@@ -223,7 +223,7 @@ function App() {
                 </p>
                 <div className="flex flex-wrap gap-3">
                   <button
-                    className="rounded-xl bg-gradient-to-r from-cyan-400 to-indigo-400 px-4 py-2.5 text-sm font-semibold text-slate-950 shadow-lg shadow-indigo-500/30 transition hover:-translate-y-0.5 hover:shadow-indigo-500/50"
+                    className="rounded-xl bg-white px-4 py-2.5 text-sm font-semibold text-slate-950 shadow-lg shadow-indigo-500/30 transition hover:-translate-y-0.5 hover:shadow-indigo-500/50"
                     onClick={() => handleSend("notification")}
                   >
                     Send Summary
